@@ -1,8 +1,9 @@
 # Hola, soy Jorge González 👋
 
-Programador backend buscando ser fullstack. 
-</br>
-No me quiero convertir en un departamento entero de IT pero si quiero aprender todo lo que pueda por el camino.
+Programador backend buscando ser fullstack, blockchain developer, big data engineer, android/ios developer, devops master... En fin, que quiero aprenderlo todo  😅
+<p>
+:warning: Disclaimer: Tampoco me quiero convertir en un departamento entero de IT
+
 
 ## Tecnologías:
 
@@ -21,3 +22,5 @@ No me quiero convertir en un departamento entero de IT pero si quiero aprender t
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-C80000?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
+
+Y alguna cosa más...
