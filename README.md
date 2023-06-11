@@ -1,8 +1,8 @@
 # Hola, soy Jorge González 👋
 
-Programador backend buscando ser fullstack, blockchain developer, big data engineer, android/ios developer, devops master... En fin, que quiero aprenderlo todo  😅
+Programador backend al que le apasiona la programacion web pero que a la vez quiere aprender a ser blockchain developer, big data engineer, android/ios developer, devops master, cybersecurity engineer... En fin, que quiero aprenderlo todo  😅
 <p>
-:warning: Disclaimer: Tampoco me quiero convertir en un departamento entero de IT
+:warning: Disclaimer: Tampoco me quiero convertir en un departamento entero de IT pero me gusta saber defenderme
 
 
 ## Tecnologías:
