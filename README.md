@@ -27,8 +27,10 @@ Programador backend al que le apasiona la programacion web pero que a la vez qui
   
 [![Angular](https://img.shields.io/badge/Angular-C80000?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![Vaadin](https://img.shields.io/badge/Vaadin-0036FF?style=for-the-badge&logo=Vaadin&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-02ACC3?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![Google-Cloud](https://img.shields.io/badge/Google_Cloud-0013FF?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
 
 
 Y alguna cosa más...
