@@ -6,6 +6,7 @@ Programador backend al que le apasiona la programacion web pero que a la vez qui
 
 
 ## Tecnologías:
+<!--[![Java](https://www.codewars.com/users/Jorge%20Gonz%C3%A1lez%20Piedra/badges/large)]()-->
 
 ### Masterizando
 [![Java](https://img.shields.io/badge/Java-F77800?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
