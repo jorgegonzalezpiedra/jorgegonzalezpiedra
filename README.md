@@ -1,37 +1,25 @@
-# Hola, soy Jorge González 👋
+Hi 👋 My name is Jorge Gonzalez
+===============================
 
-Programador backend al que le apasiona la programacion web pero que a la vez quiere aprender a ser blockchain developer, big data engineer, android/ios developer, devops master, cybersecurity engineer... En fin, que quiero aprenderlo todo  😅
-<p>
-:warning: Disclaimer: Tampoco me quiero convertir en un departamento entero de IT pero me gusta saber defenderme
+Web developer
+-------------
 
+I've benn learning to code for more than 5 years. I startes with Java and Swing, but it turns out to fullstack web developer with Java, Spring, Js, and various frameworks.
 
-## Tecnologías:
-<!--[![Java](https://www.codewars.com/users/Jorge%20Gonz%C3%A1lez%20Piedra/badges/large)]()-->
+* 🌍  I'm based in Spain
+* 🖥️  See my portfolio at [jorgegonzalez.dev](http://jorgegonzalezpiedra.github.io/jorgegonzalez.dev/)
+* ✉️  You can contact me at [jorge.gonzalez.piedra@gmail.com](mailto:jorge.gonzalez.piedra@gmail.com)
+* 🧠  I'm learning NextJs
+* 🤝  I'm open to collaborating on any interesting project
 
-### Masterizando
-[![Java](https://img.shields.io/badge/Java-F77800?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
-[![Spring](https://img.shields.io/badge/Spring-2CC40A?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
-
-[![HTML](https://img.shields.io/badge/Html-F77800?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![JS](https://img.shields.io/badge/Javascript-FFF300?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/Css-1C6CE0?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-
-[![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Oracle DB](https://img.shields.io/badge/OracleDB-FF0000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
-
-### Aprendiendo
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-6C0094?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Go](https://img.shields.io/badge/Go-00B9A9?style=for-the-badge&logo=Go&logoColor=white&labelColor=101010)]()
-  
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-  
-[![Angular](https://img.shields.io/badge/Angular-C80000?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
-[![Vaadin](https://img.shields.io/badge/Vaadin-0036FF?style=for-the-badge&logo=Vaadin&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-02ACC3?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
-
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![Google-Cloud](https://img.shields.io/badge/Google_Cloud-0013FF?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=101010)]()
+### Skills
 
 
-Y alguna cosa más...
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/jorgegonzalezpiedra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jorge-gonzález-piedra-9923b112a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
