@@ -4,12 +4,12 @@ Hi 👋 My name is Jorge Gonzalez
 Web developer
 -------------
 
-I've benn learning to code for more than 5 years. I startes with Java and Swing, but it turns out to fullstack web developer with Java, Spring, Js, and various frameworks.
+I've been learning to code for more than 5 years. I started with Java and Swing, but it turns out to fullstack web developer with Java, Spring, Js, and various frameworks.
 
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [jorgegonzalez.dev](http://jorgegonzalezpiedra.github.io/jorgegonzalez.dev/)
 * ✉️  You can contact me at [jorge.gonzalez.piedra@gmail.com](mailto:jorge.gonzalez.piedra@gmail.com)
-* 🧠  I'm learning NextJs
+* 🧠  I'm currently learning NextJs
 * 🤝  I'm open to collaborating on any interesting project
 
 ### Skills
