@@ -1,25 +1,82 @@
-Hi 👋 My name is Jorge Gonzalez
-===============================
+# Hi there 👋 I'm Jorge González
 
-Web developer
--------------
+## Senior Backend Engineer | Java • Spring Boot • Next.js • Cloud
 
-I've been learning to code for more than 5 years. I started with Java and Swing, but it turns out to fullstack web developer with Java, Spring, Js, and various frameworks.
+I'm a **Senior Backend Engineer** from Spain with over **8 years of professional experience** building scalable, high-performance applications.
 
-* 🌍  I'm based in Spain
-* 🖥️  See my portfolio at [jorgegonzalez.dev](http://jorgegonzalezpiedra.github.io/jorgegonzalez.dev/)
-* ✉️  You can contact me at [jorge.gonzalez.piedra@gmail.com](mailto:jorge.gonzalez.piedra@gmail.com)
-* 🧠  I'm currently learning NextJs
-* 🤝  I'm open to collaborating on any interesting project
+My main expertise is in the **Java ecosystem**, where I design and develop robust backend services using **Spring Boot**, REST APIs, relational databases, and cloud-native technologies. In recent years I've also expanded into modern full-stack development with **Next.js**, **React**, **TypeScript**, and **Supabase**, building products from idea to production.
 
-### Skills
+I'm passionate about software architecture, clean code, automation, and creating products that solve real-world problems.
 
+---
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+## 🚀 About me
+
+- 🇪🇸 Based in Madrid, Spain
+- 💼 Senior Backend Engineer at **BBVA Technology Europe**
+- 🧠 Passionate about scalable architectures, distributed systems, and AI-powered applications
+- 🚀 Creator of **TipoTest**, an AI-powered learning platform that transforms PDFs into interactive study resources
+- 🌱 Always learning new technologies and software engineering best practices
+- 🤝 Open to collaborating on interesting open-source and SaaS projects
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40"/>
 </p>
 
+### Frontend
 
-### Socials
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40"/>
+</p>
 
-<p align="left"> <a href="https://www.github.com/jorgegonzalezpiedra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jorge-gonzález-piedra-9923b112a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Cloud & Tools
+
+- AWS
+- Supabase
+- Jenkins
+- SonarQube
+- Maven
+
+---
+
+## 🚀 Featured Project
+
+### TipoTest
+
+**AI-powered learning platform**
+
+Transform any PDF into:
+
+- 📝 Interactive quizzes
+- 🧠 Flashcards
+- 📄 Smart summaries
+- 🗺 Mind maps
+- 🧩 Psychometric tests
+
+Built with **Next.js, Supabase, OpenAI, PostgreSQL and Vercel.**
+
+🌐 https://www.tipotest.es
+
+---
+
+## 📫 Let's connect
+
+- 🌍 Website: [https://jorgegonzalezpiedra.es](https://portfolio-steel-two-34.vercel.app/en/)
+- 💼 LinkedIn: https://www.linkedin.com/in/jorge-gonzalez-piedra
+- 📧 jorge.gonzalez.piedra@gmail.com
+- 🐙 GitHub: https://github.com/jorgegonzalezpiedra
